@@ -6,7 +6,7 @@ Sistema em Excel com VBA para geração e impressão automatizada de ordens.
 
 ## 🧑‍💻 Sobre este projeto
 
-O **IMPRIMIR ORDENS** é uma solução desenvolvida em **Excel com VBA** para automatizar o processo de geração e impressão de ordens, reduzindo tarefas manuais e erros operacionais.
+O arquivo **IMPRIMIR ORDENS** é uma solução desenvolvida em **Excel com VBA** para automatizar o processo de geração e impressão de ordens, reduzindo tarefas manuais e erros operacionais.
 
 Este projeto faz parte do meu portfólio com foco em **análise de sistemas, suporte de TI e automação de processos**.
 
