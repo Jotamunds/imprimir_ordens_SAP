@@ -2,6 +2,8 @@
 
 Sistema em Excel com VBA para geração e impressão automatizada de ordens.
 
+<img width="1042" height="467" alt="image" src="https://github.com/user-attachments/assets/5ea4bed7-366d-46a6-958a-79238e495d16" />
+
 ------------------------------------------------------------------------
 
 ## 🧑‍💻 Sobre este projeto
